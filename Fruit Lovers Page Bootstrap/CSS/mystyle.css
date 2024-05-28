@@ -1,0 +1,11 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  font-family: "Times New Roman";
+}
+.fs-1 {
+  font-size: calc(3.575rem + 1.5vw) !important;
+}
