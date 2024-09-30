@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @robelgeremew
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning next.js react.js
+- 💞️ I’m looking to collaborate on web development , animations 
+- 📫 How to reach me robelg794@gmail.com
